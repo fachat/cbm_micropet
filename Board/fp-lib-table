@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "micropet_v3")(type "KiCad")(uri "$(KIPRJMOD)/micropet_v3.pretty")(options "")(descr ""))
+)

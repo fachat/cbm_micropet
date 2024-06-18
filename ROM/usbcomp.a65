@@ -1,7 +1,0 @@
-
-start	=*
-
-	.bin 0,0, "usb65/platforms/upet/petromcomp"
-
-	.dsb start + $0100 - *, $ff
-

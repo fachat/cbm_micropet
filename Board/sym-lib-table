@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "micropet_v3-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/micropet_v3-eagle-import.kicad_sym")(options "")(descr ""))
+)
