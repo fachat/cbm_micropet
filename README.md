@@ -44,7 +44,7 @@ The board is built with a number of features:
 
 The system architecture is actually rather simple, as you can see in the following graphics.
 
-![MicroPET System Architecture](images/upet-system-architecture.png)
+![MicroPET System Architecture](images/micropet-arch.png)
 
 The main functionality is "hidden" inside the FPGA. It does:
 
