@@ -82,6 +82,11 @@ For more detailled descriptions of the features and how to use them, pls see the
 [FPGA repository](https://github.com/fachat/upet_fpga) that contains the code for the FPGA,
 as described in the next section.
 
+## Version History
+
+- [Revision 2.1A](https://github.com/fachat/cbm_micropet/tree/r2.1a): the first one with boot-from-SPI, and card edge connectors for IEEE and tape.
+- [Revision 1.1B](https://github.com/fachat/cbm_micropet/tree/r1.1b): the original one with parallel ROMs, and no SPI boot; also, no card edge connectors
+
 ## Building
 
 Here are four subdirectories:
