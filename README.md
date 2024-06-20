@@ -1,6 +1,6 @@
 # Micro-PET R3
 
-Note: this is a part of a larger set of repositories, with [upet_family[() as the main repository.
+Note: this is a part of a larger set of repositories, with [upet_family](https://github.com/fachat/upet_family) as the main repository.
 
 This is a re-incarnation of the Commodore PET computer(s) from the later 1970s.
 
