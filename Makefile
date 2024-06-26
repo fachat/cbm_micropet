@@ -1,0 +1,7 @@
+
+
+clone:
+
+update:
+	git pull
+
