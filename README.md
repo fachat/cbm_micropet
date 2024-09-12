@@ -104,8 +104,8 @@ In addition, two other repositories are needed - they are separate as they are s
 
 To have the board built, you can use the gerbers that are stored in the zip file in the Board/production subdirectory.
 
-To populate the board, there is an interactive bom (bill of materials) from KiCad, as well as the KiCad BOM CSV export in the [bom](bom/) folder.
-Note at this time, part numbers are not available yet, please compare with the [Ultra-CPU](https://github.com/fachat/csa_ultracpu) and [PETIO](http://www.6502.org/users/andre/csa/petio/index.html) boards.
+To populate the board, there is an interactive bom (bill of materials) from KiCad, as well as the KiCad BOM CSV export in the [bom](Board/bom/) folder.
+The parts I used are in the [Mouser BOM](Board/micropet_v3.0a-BOM.xlsx).
 
 The BOM contains an Ethernet breakout board that is put into the connectors "above" the USB port. As an alternative you could use the 
 [Wifi breakout board](https://github.com/fachat/upet_wifi). Note that at this time, this is not tested / programmed yet.
