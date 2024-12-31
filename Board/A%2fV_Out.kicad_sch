@@ -2647,10 +2647,16 @@
 		)
 	)
 	(junction
-		(at 133.35 33.02)
+		(at 104.14 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1c1ca31d-068f-4004-b164-1dd7f02ca014")
+		(uuid "11b8a558-34fc-4b88-9432-a44d3c600a9e")
+	)
+	(junction
+		(at 121.92 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ac683c9-d7d8-45d5-b8ab-f5855f202c20")
 	)
 	(junction
 		(at 160.02 58.42)
@@ -2665,6 +2671,12 @@
 		(uuid "52d6e3fc-db41-4aa2-bafc-c68cc5169fc6")
 	)
 	(junction
+		(at 129.54 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5cba9ff4-c525-4c86-90e3-2d6e8c30bd0e")
+	)
+	(junction
 		(at 180.34 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2677,12 +2689,6 @@
 		(uuid "7ab93cd7-cf61-4fd2-ac1a-9af8306121c7")
 	)
 	(junction
-		(at 121.92 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "919f0ae1-1fa2-4bce-a7ed-a7ee81b9bdef")
-	)
-	(junction
 		(at 160.02 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2693,6 +2699,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ab53cc6-580f-4732-bcae-ebb1f7ece78d")
+	)
+	(junction
+		(at 129.54 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a07ac4e7-cf73-40f8-9f84-cf7a7e997555")
 	)
 	(junction
 		(at 182.88 139.7)
@@ -2724,7 +2736,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 60.96) (xy 121.92 33.02)
+			(xy 129.54 60.96) (xy 129.54 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2894,6 +2906,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 71.12) (xy 121.92 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2396a878-6307-4ae7-a38c-e4548cd127b0")
+	)
+	(wire
+		(pts
 			(xy 78.74 58.42) (xy 93.98 58.42)
 		)
 		(stroke
@@ -3001,6 +3023,16 @@
 			(type solid)
 		)
 		(uuid "35086d19-4043-473d-ae01-df35033c26e2")
+	)
+	(wire
+		(pts
+			(xy 121.92 40.64) (xy 142.24 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "362ddcc6-1b35-4645-8709-c007f47477c6")
 	)
 	(wire
 		(pts
@@ -3144,7 +3176,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 33.02) (xy 121.92 33.02)
+			(xy 119.38 33.02) (xy 129.54 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3174,7 +3206,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 73.66) (xy 121.92 73.66)
+			(xy 160.02 73.66) (xy 129.54 73.66)
 		)
 		(stroke
 			(width 0.1524)
@@ -3194,16 +3226,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 33.02) (xy 133.35 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62ee1e9b-8d5c-41b7-8b1f-165b9e6be23b")
-	)
-	(wire
-		(pts
 			(xy 167.64 33.02) (xy 167.64 48.26)
 		)
 		(stroke
@@ -3211,6 +3233,16 @@
 			(type solid)
 		)
 		(uuid "6306e2cb-6cdd-4d6f-9d90-c75d3c559c66")
+	)
+	(wire
+		(pts
+			(xy 109.22 40.64) (xy 104.14 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6414b2b1-5a65-4319-bd3b-4b8a8951324c")
 	)
 	(wire
 		(pts
@@ -3294,6 +3326,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 40.64) (xy 119.38 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83703651-c966-4164-9093-49c563d19e0a")
+	)
+	(wire
+		(pts
 			(xy 109.22 109.22) (xy 114.3 109.22)
 		)
 		(stroke
@@ -3311,16 +3353,6 @@
 			(type solid)
 		)
 		(uuid "86c8c89f-7fe4-4c55-b8bc-412c56bd91fc")
-	)
-	(wire
-		(pts
-			(xy 142.24 40.64) (xy 133.35 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89b71e5d-3072-46d5-b279-14350c71d47e")
 	)
 	(wire
 		(pts
@@ -3494,6 +3526,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 40.64) (xy 121.92 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acc5a8f8-3c12-4166-a89e-24de30bcd20a")
+	)
+	(wire
+		(pts
 			(xy 76.2 106.68) (xy 60.96 106.68)
 		)
 		(stroke
@@ -3574,6 +3616,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 33.02) (xy 109.22 33.02)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "baa41e16-93b4-4e5c-8518-ea6dda337ac2")
+	)
+	(wire
+		(pts
 			(xy 134.62 132.08) (xy 139.7 132.08)
 		)
 		(stroke
@@ -3601,6 +3653,16 @@
 			(type solid)
 		)
 		(uuid "bd10a19a-f5a0-4e71-b2b5-7afc8a74ee4b")
+	)
+	(wire
+		(pts
+			(xy 121.92 73.66) (xy 129.54 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdab33f6-5213-42fb-bedc-d647751eead8")
 	)
 	(wire
 		(pts
@@ -3674,6 +3736,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 40.64) (xy 104.14 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c736e815-feff-4479-a98e-de9cc336c165")
+	)
+	(wire
+		(pts
 			(xy 134.62 172.72) (xy 162.56 172.72)
 		)
 		(stroke
@@ -3704,23 +3776,13 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 73.66) (xy 121.92 71.12)
+			(xy 129.54 73.66) (xy 129.54 71.12)
 		)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
 		(uuid "d8586914-e784-4dc7-ac61-aa6330276374")
-	)
-	(wire
-		(pts
-			(xy 133.35 40.64) (xy 133.35 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d911cd7a-d171-411e-9a85-a69a77d6e91e")
 	)
 	(wire
 		(pts
@@ -3804,7 +3866,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 33.02) (xy 109.22 33.02)
+			(xy 66.04 33.02) (xy 104.14 33.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -3904,7 +3966,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 33.02) (xy 142.24 33.02)
+			(xy 129.54 33.02) (xy 142.24 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3922,9 +3984,9 @@
 		)
 		(uuid "fe63b517-76a8-43e8-b58d-b19a7188783c")
 	)
-	(text "3.0B:\n- add voltage divider to dim beeper volume"
+	(text "3.0B:\n- add voltage divider to dim beeper volume\n3.1A:\n- add 2nd voltage divider to eliminate channel cross-talk"
 		(exclude_from_sim no)
-		(at 208.534 183.642 0)
+		(at 52.07 211.582 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -3933,7 +3995,7 @@
 		)
 		(uuid "43a70141-4150-4a18-a2c1-0b276e8a36f9")
 	)
-	(text "MICROPET-V3.0B"
+	(text "MICROPET-V3.1A"
 		(exclude_from_sim no)
 		(at 208.28 195.58 0)
 		(effects
@@ -3944,7 +4006,7 @@
 		)
 		(uuid "78c14bd4-986e-4b25-a853-b9deaba727f1")
 	)
-	(text "MICROPET-V3.0B-20240523"
+	(text "MICROPET-V3.1A-20241230"
 		(exclude_from_sim no)
 		(at 208.28 218.44 0)
 		(effects
@@ -4458,6 +4520,75 @@
 			(project "micropet_v3"
 				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
 					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "micropet_v3-eagle-import:R-EU_0204/2V")
+		(at 121.92 66.04 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0b6d66a9-c10f-4266-8edd-057d4fb04f44")
+		(property "Reference" "R37"
+			(at 123.9266 62.23 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "470"
+			(at 118.618 62.23 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "micropet_v3:0204V"
+			(at 121.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 121.92 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f8fc53af-8cc7-4ad7-a3eb-5a7771a8ed25")
+		)
+		(pin "2"
+			(uuid "5d098b24-982a-4195-93c4-1502b60ab684")
+		)
+		(instances
+			(project "micropet_v3"
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -6512,7 +6643,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "3k3"
+		(property "Value" "4k7"
 			(at 118.11 29.718 0)
 			(effects
 				(font
@@ -6693,6 +6824,75 @@
 			(project "micropet_v3"
 				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
 					(reference "#GND032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "micropet_v3-eagle-import:R-EU_0204/2V")
+		(at 114.3 40.64 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "84ec8e37-2026-4fe1-afec-2aae8bab6c39")
+		(property "Reference" "R36"
+			(at 118.11 42.1386 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "4k7"
+			(at 118.11 37.338 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "micropet_v3:0204V"
+			(at 114.3 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "05d9c3df-0481-4a64-bef9-18682c82b163")
+		)
+		(pin "2"
+			(uuid "eef299f3-b02f-4c9e-a627-19696ad10b29")
+		)
+		(instances
+			(project "micropet_v3"
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -8142,7 +8342,7 @@
 	)
 	(symbol
 		(lib_id "micropet_v3-eagle-import:R-EU_0204/2V")
-		(at 121.92 66.04 270)
+		(at 129.54 66.04 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8150,7 +8350,7 @@
 		(dnp no)
 		(uuid "e245ddcb-fa2a-45a3-8cbc-cf4fd4a55aae")
 		(property "Reference" "R19"
-			(at 123.4186 62.23 0)
+			(at 131.5466 62.23 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8159,7 +8359,7 @@
 			)
 		)
 		(property "Value" "470"
-			(at 118.618 62.23 0)
+			(at 126.238 62.23 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -8168,7 +8368,7 @@
 			)
 		)
 		(property "Footprint" "micropet_v3:0204V"
-			(at 121.92 66.04 0)
+			(at 129.54 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8177,7 +8377,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 66.04 0)
+			(at 129.54 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8186,7 +8386,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 121.92 66.04 0)
+			(at 129.54 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)

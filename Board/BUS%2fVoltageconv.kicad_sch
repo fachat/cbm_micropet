@@ -2039,7 +2039,7 @@
 		)
 		(uuid "02e2372f-801b-4b3e-8fba-feb47ce4ba5d")
 	)
-	(text "MICROPET-V3.0A"
+	(text "MICROPET-V3.1A"
 		(exclude_from_sim no)
 		(at 175.26 162.56 0)
 		(effects

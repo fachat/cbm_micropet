@@ -5,6 +5,368 @@
 	(uuid "32c821e9-6163-46a3-a264-117797425b51")
 	(paper "User" 573.583 343.052)
 	(lib_symbols
+		(symbol "PORT_CASSETTE_EDGE_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "CN3"
+				(at -1.524 -12.192 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+				)
+			)
+			(property "Value" "PORT_CASSETTE_EDGE"
+				(at -7.62 -12.7 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "micropet_v3:MA156_6-2_KEYED"
+				(at 4.445 14.478 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PORT_CASSETTE_EDGE_1_1_0"
+				(polyline
+					(pts
+						(xy -7.62 -10.16) (xy 7.62 -10.16)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -7.62 12.7) (xy -7.62 -10.16)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -10.16) (xy 7.62 12.7)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 12.7) (xy -7.62 12.7)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin output line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "MOTOR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 10.16 180)
+					(length 5.08)
+					(name "READ"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 5.08 180)
+					(length 5.08)
+					(name "WRITE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "SENSE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 -7.62 180)
+					(length 5.08)
+					(name "MOTOR@1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 7.62 180)
+					(length 5.08)
+					(name "READ@1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 2.54 180)
+					(length 5.08)
+					(name "WRITE@1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 -2.54 180)
+					(length 5.08)
+					(name "SENSE@1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "F"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PORT_CASSETTE_EDGE_1_2_0"
+				(text "GND"
+					(at 0 -6.35 900)
+					(effects
+						(font
+							(size 1.524 1.2954)
+						)
+						(justify bottom)
+					)
+				)
+				(text "GND"
+					(at 5.08 -6.35 900)
+					(effects
+						(font
+							(size 1.524 1.2954)
+						)
+						(justify bottom)
+					)
+				)
+				(text "VCC"
+					(at 0 6.35 900)
+					(effects
+						(font
+							(size 1.524 1.2954)
+						)
+						(justify bottom)
+					)
+				)
+				(text "VCC"
+					(at 5.08 6.35 900)
+					(effects
+						(font
+							(size 1.524 1.2954)
+						)
+						(justify bottom)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -10.16 90)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 10.16 270)
+					(length 7.62)
+					(name "VCC"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 2.54 -10.16 90)
+					(length 7.62)
+					(name "GND@1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 2.54 10.16 270)
+					(length 7.62)
+					(name "VCC@1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "micropet_v3-eagle-import:7400D"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -7532,15 +7894,15 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "CN"
-				(at 0 0 0)
+			(property "Reference" "CN3"
+				(at -1.524 -12.192 0)
 				(effects
 					(font
 						(size 1.778 1.5113)
 					)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "PORT_CASSETTE_EDGE"
 				(at -7.62 -12.7 0)
 				(effects
 					(font
@@ -7551,7 +7913,7 @@
 				)
 			)
 			(property "Footprint" "micropet_v3:MA156_6-2_KEYED"
-				(at 0 0 0)
+				(at 4.445 14.478 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -7634,6 +7996,24 @@
 						(type none)
 					)
 				)
+				(pin output line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "MOTOR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input line
 					(at 12.7 10.16 180)
 					(length 5.08)
@@ -7644,7 +8024,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7662,7 +8042,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7680,7 +8060,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7689,16 +8069,16 @@
 					)
 				)
 				(pin output line
-					(at 12.7 -5.08 180)
+					(at 12.7 -7.62 180)
 					(length 5.08)
-					(name "MOTOR"
+					(name "MOTOR@1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "6"
+					(number "C"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7716,7 +8096,7 @@
 							)
 						)
 					)
-					(number "C"
+					(number "D"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7734,7 +8114,7 @@
 							)
 						)
 					)
-					(number "D"
+					(number "E"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7746,24 +8126,6 @@
 					(at 12.7 -2.54 180)
 					(length 5.08)
 					(name "SENSE@1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "E"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 12.7 -7.62 180)
-					(length 5.08)
-					(name "MOTOR@1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10055,12 +10417,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49805e20-7e6f-41f8-9476-aa6e5a0cb1ad")
-	)
-	(junction
-		(at 180.34 274.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "49a1281b-e033-45f1-9031-992a856ffd0c")
 	)
 	(junction
 		(at 312.42 139.7)
@@ -12890,16 +13246,6 @@
 		)
 		(uuid "205f9de0-8fa7-4fd4-a687-f01019e02eaf")
 	)
-	(wire
-		(pts
-			(xy 180.34 274.32) (xy 180.34 269.24)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "20654289-7f56-4daf-a335-1dc9196b1ece")
-	)
 	(bus
 		(pts
 			(xy 248.92 73.66) (xy 248.92 119.38)
@@ -12919,16 +13265,6 @@
 			(type solid)
 		)
 		(uuid "225a0ab2-0416-42bf-8731-30bf455eb12b")
-	)
-	(wire
-		(pts
-			(xy 177.8 276.86) (xy 180.34 276.86)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "226180de-0be0-4db2-b634-11f0793234e0")
 	)
 	(wire
 		(pts
@@ -13570,16 +13906,6 @@
 		)
 		(uuid "379df080-ad06-43d7-95b2-b39ddb34f72e")
 	)
-	(wire
-		(pts
-			(xy 185.42 269.24) (xy 185.42 271.78)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "37e39724-8778-4a65-9dba-a6ef95091f81")
-	)
 	(bus
 		(pts
 			(xy 172.72 134.62) (xy 172.72 137.16)
@@ -13919,16 +14245,6 @@
 			(type solid)
 		)
 		(uuid "42669d92-0f9d-4741-85ec-520d82a3b35d")
-	)
-	(wire
-		(pts
-			(xy 180.34 269.24) (xy 185.42 269.24)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "42bee801-18bf-46e6-bbc1-09652f595d2b")
 	)
 	(wire
 		(pts
@@ -17430,16 +17746,6 @@
 		)
 		(uuid "a574415d-91ed-4424-89c2-a47b59ce091f")
 	)
-	(wire
-		(pts
-			(xy 180.34 276.86) (xy 180.34 274.32)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "a589bb1f-4b7c-46a8-b243-5d1cfa681763")
-	)
 	(polyline
 		(pts
 			(xy 17.78 17.78) (xy 546.1 17.78)
@@ -19402,16 +19708,6 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 274.32) (xy 180.34 274.32)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "d86569df-9e2a-486f-b06a-ca8c0c3a329d")
-	)
-	(wire
-		(pts
 			(xy 127 119.38) (xy 132.08 119.38)
 		)
 		(stroke
@@ -20952,7 +21248,7 @@
 		)
 		(uuid "1478c106-8c65-46a8-b041-6e19d6d9daed")
 	)
-	(text "MICROPET-V3.0B\n"
+	(text "MICROPET-V3.1A\n"
 		(exclude_from_sim no)
 		(at 452.12 292.1 0)
 		(effects
@@ -20963,7 +21259,7 @@
 		)
 		(uuid "2bb3d11d-63e4-4341-9f74-b01595beb132")
 	)
-	(text "MICROPET-V3.0B-20240523"
+	(text "MICROPET-V3.1A-20241230"
 		(exclude_from_sim no)
 		(at 452.12 314.96 0)
 		(effects
@@ -20996,9 +21292,9 @@
 		)
 		(uuid "b1e23613-ae2f-4183-a3c7-5e1eff649f5a")
 	)
-	(text "3.0B:\n- use CPHI2 instead of PHI2 as I/O clock"
+	(text "3.0B:\n- use CPHI2 instead of PHI2 as I/O clock\n3.1A:\n- change 33R footprints to SMD\n- fix tape PCB edge connector pinout"
 		(exclude_from_sim no)
-		(at 443.484 277.368 0)
+		(at 445.262 273.304 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -26515,7 +26811,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "33"
 			(at 69.85 206.502 0)
 			(effects
 				(font
@@ -26524,7 +26820,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "micropet_v3:0207_2V"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 73.66 203.2 0)
 			(effects
 				(font
@@ -26567,6 +26863,7 @@
 		)
 	)
 	(symbol
+		(lib_name "PORT_CASSETTE_EDGE_1")
 		(lib_id "micropet_v3-eagle-import:PORT_CASSETTE_EDGE")
 		(at 157.48 289.56 0)
 		(unit 1)
@@ -26576,7 +26873,7 @@
 		(dnp no)
 		(uuid "240bc543-8232-4802-ae24-5b8a3179fd8c")
 		(property "Reference" "CN3"
-			(at 157.48 289.56 0)
+			(at 155.956 301.752 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -26594,7 +26891,7 @@
 			)
 		)
 		(property "Footprint" "micropet_v3:MA156_6-2_KEYED"
-			(at 157.48 289.56 0)
+			(at 161.925 275.082 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30443,72 +30740,6 @@
 		)
 	)
 	(symbol
-		(lib_id "micropet_v3-eagle-import:GND")
-		(at 185.42 274.32 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b573bf8e-8f0a-4dad-987d-845660823366")
-		(property "Reference" "#GND016"
-			(at 185.42 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 182.88 276.86 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 185.42 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 185.42 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 185.42 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ea399d1c-d665-4103-9393-433972ab4c3e")
-		)
-		(instances
-			(project "micropet_v3"
-				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/40afcc8b-eafe-4576-bdd0-9763391f63cc"
-					(reference "#GND016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "micropet_v3-eagle-import:RN08")
 		(at 492.76 256.54 180)
 		(unit 1)
@@ -31000,7 +31231,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "33"
 			(at 69.85 216.662 0)
 			(effects
 				(font
@@ -31009,7 +31240,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "micropet_v3:0207_2V"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 73.66 213.36 0)
 			(effects
 				(font
@@ -31828,7 +32059,7 @@
 		(dnp no)
 		(uuid "f215c6ce-2bf4-49c7-9ac6-85fdae7ac1c5")
 		(property "Reference" "CN3"
-			(at 121.92 307.34 0)
+			(at 134.112 308.864 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -31846,7 +32077,7 @@
 			)
 		)
 		(property "Footprint" "micropet_v3:MA156_6-2_KEYED"
-			(at 121.92 307.34 0)
+			(at 107.442 302.895 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -5,6 +5,433 @@
 	(uuid "5f14ed27-2731-41cf-944e-b8bac3791baf")
 	(paper "User" 334.823 218.592)
 	(lib_symbols
+		(symbol "csa_ultracpu-eagle-import:GND"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at -2.54 -2.54 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "SUPPLY SYMBOL"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GND_1_0"
+				(polyline
+					(pts
+						(xy -1.905 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "csa_ultracpu-eagle-import:JP1E"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "JP"
+				(at -1.27 0 90)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at 5.715 0 90)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "csa_ultracpu:JP1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "JUMPER"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "JP1E_1_0"
+				(polyline
+					(pts
+						(xy -0.635 0) (xy 3.175 0)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 0.635) (xy -0.635 0)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 1.27)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 2.54 1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.27)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 0) (xy 3.175 0.635)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 0.635) (xy -0.635 0.635)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -2.54 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "csa_ultracpu-eagle-import:R-EU_0204/7"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at -3.81 1.4986 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -3.81 -3.302 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "csa_ultracpu:0204_7"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "RESISTOR, European symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "R-EU_0204/7_1_0"
+				(polyline
+					(pts
+						(xy -2.54 -0.889) (xy -2.54 0.889)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -0.889) (xy 2.54 -0.889)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -0.889) (xy 2.54 0.889)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0.889) (xy -2.54 0.889)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "micropet_v3-eagle-import:3.3V"
 			(power)
 			(exclude_from_sim no)
@@ -3469,6 +3896,12 @@
 		(uuid "18a572e4-a8d1-4692-8e00-29dc0fba40f3")
 	)
 	(junction
+		(at 57.15 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1bfbfe35-b74c-4288-ae4d-dd312830b861")
+	)
+	(junction
 		(at 236.22 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3479,6 +3912,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "33d3e2a8-c540-421a-86ec-b504e5ac72ba")
+	)
+	(junction
+		(at 39.37 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35999ad9-966b-4134-91a9-24b79f74cde4")
 	)
 	(junction
 		(at 127 73.66)
@@ -3539,6 +3978,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "df71f43b-51a4-40a5-b8ca-01cd78e1257c")
+	)
+	(junction
+		(at 57.15 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea7f80aa-e046-4871-92e6-d36014c327f7")
+	)
+	(junction
+		(at 64.77 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eeaff50d-708a-408a-8747-e74590deb34c")
 	)
 	(wire
 		(pts
@@ -3662,6 +4113,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 123.19) (xy 64.77 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12ca037e-aabf-425d-96d0-843a17012f4b")
+	)
+	(wire
+		(pts
 			(xy 139.7 111.76) (xy 142.24 111.76)
 		)
 		(stroke
@@ -3749,6 +4210,16 @@
 			(type solid)
 		)
 		(uuid "25a205a9-68f1-4844-a7d6-a3d9ee48ecb8")
+	)
+	(wire
+		(pts
+			(xy 64.77 137.16) (xy 78.74 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25ce06f9-9dfd-45d7-8937-26ca9f2a9400")
 	)
 	(wire
 		(pts
@@ -3872,6 +4343,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 143.51) (xy 45.72 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37ae0a5e-9db1-404a-b3e7-f6d271bb97cb")
+	)
+	(wire
+		(pts
 			(xy 142.24 111.76) (xy 142.24 116.84)
 		)
 		(stroke
@@ -3919,6 +4400,16 @@
 			(type solid)
 		)
 		(uuid "4d089f62-2081-4e21-ae6e-17627660fffd")
+	)
+	(wire
+		(pts
+			(xy 45.72 134.62) (xy 39.37 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d229eaa-e135-4070-a6f9-b533ee4f39be")
 	)
 	(wire
 		(pts
@@ -4012,6 +4503,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 137.16) (xy 64.77 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ea25201-ea8a-451c-9761-d7262f09100f")
+	)
+	(wire
+		(pts
 			(xy 139.7 96.52) (xy 147.32 96.52)
 		)
 		(stroke
@@ -4019,6 +4520,16 @@
 			(type solid)
 		)
 		(uuid "5f0a9dc9-8684-4c98-9117-5e84297f3904")
+	)
+	(wire
+		(pts
+			(xy 48.26 142.24) (xy 64.77 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "611555e5-153d-4815-a7c0-ad4914677b32")
 	)
 	(wire
 		(pts
@@ -4332,6 +4843,36 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 134.62) (xy 78.74 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab2a495b-0530-4fb6-9316-b9a1e80de1c7")
+	)
+	(wire
+		(pts
+			(xy 57.15 134.62) (xy 57.15 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad32b55c-e842-4d02-9240-34dfb942a933")
+	)
+	(wire
+		(pts
+			(xy 39.37 134.62) (xy 39.37 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b606f63d-38cd-4a00-968d-fb88c03a9349")
+	)
+	(wire
+		(pts
 			(xy 121.92 149.86) (xy 124.46 149.86)
 		)
 		(stroke
@@ -4389,6 +4930,16 @@
 			(type solid)
 		)
 		(uuid "bbabfd47-140e-4509-831b-2bf413e7c03b")
+	)
+	(wire
+		(pts
+			(xy 64.77 133.35) (xy 64.77 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0c51627-e741-44f0-871c-a9cd84101dd8")
 	)
 	(wire
 		(pts
@@ -4492,6 +5043,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 143.51) (xy 45.72 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d906842c-85cf-407f-9227-d08aaca4950c")
+	)
+	(wire
+		(pts
 			(xy 271.78 132.08) (xy 281.94 132.08)
 		)
 		(stroke
@@ -4499,6 +5060,16 @@
 			(type solid)
 		)
 		(uuid "e285e111-9878-4527-885e-7437e158e966")
+	)
+	(wire
+		(pts
+			(xy 43.18 123.19) (xy 57.15 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4b0a63d-5fb3-4400-8fa1-5db8e928dad8")
 	)
 	(wire
 		(pts
@@ -4539,6 +5110,16 @@
 			(type solid)
 		)
 		(uuid "e8e34f8c-ab25-4088-b6fd-3b8341e2297b")
+	)
+	(wire
+		(pts
+			(xy 48.26 134.62) (xy 57.15 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea024e04-7a1e-4111-abdf-c02a91b1cd52")
 	)
 	(wire
 		(pts
@@ -4590,18 +5171,7 @@
 		)
 		(uuid "fda3aa1f-a96d-44af-83bd-8e301dfcd4e7")
 	)
-	(text "Note: MAX3421 TQFP-5MM"
-		(exclude_from_sim no)
-		(at 38.1 132.08 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify left bottom)
-		)
-		(uuid "04403001-cc16-44e4-88cf-6fbb0e13c414")
-	)
-	(text "MICROPET-V2.0A-20210306"
+	(text "MICROPET-V3.1A-20241230"
 		(exclude_from_sim no)
 		(at 208.28 190.5 0)
 		(effects
@@ -4611,28 +5181,6 @@
 			(justify left bottom)
 		)
 		(uuid "235940cf-4152-4e28-af3f-382c8b581fec")
-	)
-	(text "package layout by SparkFun"
-		(exclude_from_sim no)
-		(at 157.48 121.92 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify left bottom)
-		)
-		(uuid "3ee21ef6-b235-4392-ac3c-312b4ee9c8fa")
-	)
-	(text "Non-commercial use only"
-		(exclude_from_sim no)
-		(at 43.18 137.16 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify left bottom)
-		)
-		(uuid "60bc67e9-c6e0-431d-a4f7-8a116c367743")
 	)
 	(text "(C) A. Fachat"
 		(exclude_from_sim no)
@@ -4645,17 +5193,6 @@
 		)
 		(uuid "6943b3b9-fee2-4441-977e-ff0172276254")
 	)
-	(text "Non-commercial use only"
-		(exclude_from_sim no)
-		(at 157.48 124.46 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify left bottom)
-		)
-		(uuid "6bb2cc11-6c5e-45e9-8692-c8bf3ce41ab8")
-	)
 	(text "Watch orientation on board~{}"
 		(exclude_from_sim no)
 		(at 66.04 162.56 0)
@@ -4667,7 +5204,7 @@
 		)
 		(uuid "bedc4191-06ef-42a3-a924-bb2d009c18cc")
 	)
-	(text "MICROPET-V3.0A"
+	(text "MICROPET-V3.1A"
 		(exclude_from_sim no)
 		(at 208.28 167.64 0)
 		(effects
@@ -4678,16 +5215,16 @@
 		)
 		(uuid "c53ef306-2046-4ffe-8011-da9bb97abfbd")
 	)
-	(text "Note: Micro-USB package"
+	(text "3.1A:\n- replace THT footprints for 33R with SMD\n- replace non-commercial MAX3421 footprint with kicad one\n- add boot option jumpsd on USB GPIN"
 		(exclude_from_sim no)
-		(at 157.48 119.38 0)
+		(at 99.314 188.214 0)
 		(effects
 			(font
-				(size 1.778 1.5113)
+				(size 2 2)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "d9d701ae-d708-4ea6-8bbe-daf9d2f4666a")
+		(uuid "c6f7b843-89ea-4088-aba0-cf3423a82a4d")
 	)
 	(text "SHEET 4/5"
 		(exclude_from_sim no)
@@ -4699,17 +5236,6 @@
 			(justify left bottom)
 		)
 		(uuid "ec3e0b4f-30e1-477a-8064-428eedc15d71")
-	)
-	(text "package layout by SparkFun"
-		(exclude_from_sim no)
-		(at 43.18 134.62 0)
-		(effects
-			(font
-				(size 1.778 1.5113)
-			)
-			(justify left bottom)
-		)
-		(uuid "f8c76614-2b29-40aa-82fd-5e6c1c62e2f6")
 	)
 	(label "DETECT"
 		(at 76.2 78.74 0)
@@ -5129,6 +5655,28 @@
 			)
 		)
 	)
+	(global_label "V33"
+		(shape bidirectional)
+		(at 43.18 123.19 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify right)
+		)
+		(uuid "861da097-5134-4d1b-a533-9f951ced169b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.7284 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SPI_CLK"
 		(shape bidirectional)
 		(at 177.8 33.02 0)
@@ -5328,6 +5876,142 @@
 		)
 	)
 	(symbol
+		(lib_id "csa_ultracpu-eagle-import:GND")
+		(at 39.37 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0bdee03c-0aa4-4a21-ab4a-6b8cd620236b")
+		(property "Reference" "#GND064"
+			(at 39.37 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 36.83 148.59 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 39.37 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "709b0f88-32e0-40c3-ba94-93591dd4ed83")
+		)
+		(instances
+			(project "micropet_v3"
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/8ad7fd1b-1328-4339-ad35-d21e50c9b90b"
+					(reference "#GND064")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "csa_ultracpu-eagle-import:JP1E")
+		(at 45.72 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ed82444-fd9f-4fe3-b003-e4848a4af75e")
+		(property "Reference" "JP12"
+			(at 44.45 139.7 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "JP1E"
+			(at 51.435 139.7 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "csa_ultracpu:JP1"
+			(at 45.72 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 45.72 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f669a57a-f6d7-42d5-9d48-d894a653bd91")
+		)
+		(pin "2"
+			(uuid "fd4dd15c-2488-44f3-b63f-b5c66ef8db80")
+		)
+		(instances
+			(project "micropet_v3"
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/8ad7fd1b-1328-4339-ad35-d21e50c9b90b"
+					(reference "JP12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "micropet_v3-eagle-import:R-EU_0204/7")
 		(at 68.58 119.38 0)
 		(unit 1)
@@ -5354,7 +6038,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "micropet_v3:0204_7"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 68.58 119.38 0)
 			(effects
 				(font
@@ -5792,6 +6476,76 @@
 		)
 	)
 	(symbol
+		(lib_id "csa_ultracpu-eagle-import:JP1E")
+		(at 45.72 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3c2dd212-27b1-45ee-9002-49215da41da1")
+		(property "Reference" "JP11"
+			(at 44.45 132.08 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "JP1E"
+			(at 51.435 132.08 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "csa_ultracpu:JP1"
+			(at 45.72 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 45.72 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "308f8ea1-f234-41f9-99b1-7fe8336bbf95")
+		)
+		(pin "2"
+			(uuid "ab11aee8-6514-4a4e-b211-1de4ad52c05c")
+		)
+		(instances
+			(project "micropet_v3"
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/8ad7fd1b-1328-4339-ad35-d21e50c9b90b"
+					(reference "JP11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "micropet_v3-eagle-import:MAX3421E")
 		(at 104.14 109.22 0)
 		(unit 1)
@@ -5818,7 +6572,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "micropet_v3:TQFP32-5MM"
+		(property "Footprint" "Package_QFP:LQFP-32_5x5mm_P0.5mm"
 			(at 104.14 109.22 0)
 			(effects
 				(font
@@ -6530,7 +7284,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "micropet_v3:0204_7"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 134.62 96.52 0)
 			(effects
 				(font
@@ -6793,6 +7547,75 @@
 			(project "micropet_v3"
 				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/8ad7fd1b-1328-4339-ad35-d21e50c9b90b"
 					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "csa_ultracpu-eagle-import:R-EU_0204/7")
+		(at 64.77 128.27 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82fc36c7-8a86-4884-8030-4e8120c7242e")
+		(property "Reference" "R35"
+			(at 63.2714 132.08 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10k"
+			(at 68.072 132.08 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 64.77 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8febffda-dbab-4e81-8682-dc6c8db37d07")
+		)
+		(pin "2"
+			(uuid "5caf7cad-8105-4546-8028-a1e0f6b463cb")
+		)
+		(instances
+			(project "micropet_v3"
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/8ad7fd1b-1328-4339-ad35-d21e50c9b90b"
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -7356,7 +8179,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "micropet_v3:0204_7"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 134.62 88.9 0)
 			(effects
 				(font
@@ -7591,6 +8414,75 @@
 			(project "micropet_v3"
 				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/8ad7fd1b-1328-4339-ad35-d21e50c9b90b"
 					(reference "#GND036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "csa_ultracpu-eagle-import:R-EU_0204/7")
+		(at 57.15 128.27 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e1ab4178-2251-4513-ab8d-d12405467af4")
+		(property "Reference" "R34"
+			(at 55.6514 132.08 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10k"
+			(at 60.452 132.08 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 57.15 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 57.15 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7ce7c766-0914-429f-be48-aae860b904ed")
+		)
+		(pin "2"
+			(uuid "a48bd500-7ecd-4f03-90b0-342b260c2640")
+		)
+		(instances
+			(project "micropet_v3"
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/8ad7fd1b-1328-4339-ad35-d21e50c9b90b"
+					(reference "R34")
 					(unit 1)
 				)
 			)

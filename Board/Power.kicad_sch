@@ -7820,13 +7820,14 @@
 		)
 		(uuid "757d5f69-1486-4965-9b6b-1087168804e9")
 	)
-	(text "V3.0B: - fix footprint for barrel jack power connector\n"
+	(text "V3.0B: \n- fix footprint for barrel jack power connector\nV3.1A:\n- replace THT footprint of 33R with SMD\n"
 		(exclude_from_sim no)
-		(at 242.57 164.592 0)
+		(at 218.44 164.084 0)
 		(effects
 			(font
 				(size 2 2)
 			)
+			(justify left)
 		)
 		(uuid "9a10791d-7c3e-4bdb-a422-0d733902d514")
 	)
@@ -7841,7 +7842,7 @@
 		)
 		(uuid "acd7a259-fdb2-4dfa-8e56-c5ec815b94ab")
 	)
-	(text "MICROPET-V3.0B"
+	(text "MICROPET-V3.1A"
 		(exclude_from_sim no)
 		(at 208.28 180.34 0)
 		(effects
@@ -7863,7 +7864,7 @@
 		)
 		(uuid "ed5d477b-d602-4296-b90b-42132afdb077")
 	)
-	(text "MICROPET-V3.0B-20240505\n(MICROPET-V2.1A-20211113)"
+	(text "MICROPET-V3.1A-20241230"
 		(exclude_from_sim no)
 		(at 244.856 203.454 0)
 		(effects
@@ -11683,7 +11684,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "micropet_v3:0207_2V"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 236.22 30.48 0)
 			(effects
 				(font
