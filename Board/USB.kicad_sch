@@ -5969,7 +5969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "csa_ultracpu:JP1"
+		(property "Footprint" "micropet_v3:JP1"
 			(at 45.72 139.7 0)
 			(effects
 				(font
@@ -6503,7 +6503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "csa_ultracpu:JP1"
+		(property "Footprint" "micropet_v3:JP1"
 			(at 45.72 132.08 0)
 			(effects
 				(font
