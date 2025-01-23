@@ -2085,7 +2085,6 @@
 	)
 	(label "D[0..7]"
 		(at 205.74 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)

@@ -21316,7 +21316,6 @@
 	)
 	(label "KI1"
 		(at 170.18 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21327,7 +21326,6 @@
 	)
 	(label "DIO5"
 		(at 424.815 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21338,7 +21336,6 @@
 	)
 	(label "DIO5"
 		(at 298.45 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21349,7 +21346,6 @@
 	)
 	(label "DIO3"
 		(at 426.72 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21360,7 +21356,6 @@
 	)
 	(label "CWR"
 		(at 271.78 243.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21371,7 +21366,6 @@
 	)
 	(label "NDAC"
 		(at 485.775 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -21382,7 +21376,6 @@
 	)
 	(label "A[0..3]"
 		(at 33.02 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21393,7 +21386,6 @@
 	)
 	(label "KI3"
 		(at 55.88 256.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21404,7 +21396,6 @@
 	)
 	(label "C2MTR"
 		(at 201.295 314.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21415,7 +21406,6 @@
 	)
 	(label "UP5"
 		(at 317.5 284.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21426,7 +21416,6 @@
 	)
 	(label "/SRQIN"
 		(at 271.78 246.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21437,7 +21426,6 @@
 	)
 	(label "DEC0"
 		(at 68.58 274.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21448,7 +21436,6 @@
 	)
 	(label "DEC9"
 		(at 170.18 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -21459,7 +21446,6 @@
 	)
 	(label "DIAG"
 		(at 228.6 208.915 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21470,7 +21456,6 @@
 	)
 	(label "KI7"
 		(at 55.88 266.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21481,7 +21466,6 @@
 	)
 	(label "C1RD"
 		(at 175.26 281.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21492,7 +21476,6 @@
 	)
 	(label "ATN"
 		(at 340.995 195.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21503,7 +21486,6 @@
 	)
 	(label "ATNA_EN"
 		(at 441.96 219.075 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21514,7 +21496,6 @@
 	)
 	(label "DEC[0..9]"
 		(at 205.74 226.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21525,7 +21506,6 @@
 	)
 	(label "UP2"
 		(at 317.5 292.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21536,7 +21516,6 @@
 	)
 	(label "EOI"
 		(at 226.06 208.28 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21547,7 +21526,6 @@
 	)
 	(label "UP7"
 		(at 317.5 279.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21558,7 +21536,6 @@
 	)
 	(label "UPVCC"
 		(at 227.33 292.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21569,7 +21546,6 @@
 	)
 	(label "DEC4"
 		(at 182.88 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -21580,7 +21556,6 @@
 	)
 	(label "CWR"
 		(at 127 276.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21591,7 +21566,6 @@
 	)
 	(label "C1MTR"
 		(at 174.625 297.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21602,7 +21576,6 @@
 	)
 	(label "UP0"
 		(at 294.64 180.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21613,7 +21586,6 @@
 	)
 	(label "KI2"
 		(at 71.12 256.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21624,7 +21596,6 @@
 	)
 	(label "DAV"
 		(at 406.4 200.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21635,7 +21606,6 @@
 	)
 	(label "EOIOUT"
 		(at 167.64 96.52 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21646,7 +21616,6 @@
 	)
 	(label "DO1"
 		(at 297.18 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21657,7 +21626,6 @@
 	)
 	(label "NRFDOUT"
 		(at 294.64 205.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21668,7 +21636,6 @@
 	)
 	(label "IFC"
 		(at 477.52 50.8 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21679,7 +21646,6 @@
 	)
 	(label "IFC"
 		(at 485.14 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -21690,7 +21656,6 @@
 	)
 	(label "DIO6"
 		(at 515.62 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21701,7 +21666,6 @@
 	)
 	(label "DIO2"
 		(at 298.45 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21712,7 +21676,6 @@
 	)
 	(label "UPCA1"
 		(at 292.1 302.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21723,7 +21686,6 @@
 	)
 	(label "EOI"
 		(at 406.4 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21734,7 +21696,6 @@
 	)
 	(label "KI4"
 		(at 55.88 259.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21745,7 +21706,6 @@
 	)
 	(label "DIAG"
 		(at 353.06 266.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21756,7 +21716,6 @@
 	)
 	(label "NDAC"
 		(at 401.32 170.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21767,7 +21726,6 @@
 	)
 	(label "KI3"
 		(at 121.92 238.76 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21778,7 +21736,6 @@
 	)
 	(label "DO5"
 		(at 297.18 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21789,7 +21746,6 @@
 	)
 	(label "UP2"
 		(at 294.64 185.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21800,7 +21756,6 @@
 	)
 	(label "KI0"
 		(at 71.12 251.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21811,7 +21766,6 @@
 	)
 	(label "NDACOUT"
 		(at 340.995 205.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21822,7 +21776,6 @@
 	)
 	(label "UP6"
 		(at 294.64 195.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21833,7 +21786,6 @@
 	)
 	(label "EOI"
 		(at 299.72 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21844,7 +21796,6 @@
 	)
 	(label "EOI"
 		(at 195.58 142.875 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -21855,7 +21806,6 @@
 	)
 	(label "KI4"
 		(at 71.12 261.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21866,7 +21816,6 @@
 	)
 	(label "DEC2"
 		(at 187.96 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -21877,7 +21826,6 @@
 	)
 	(label "/C2MTR"
 		(at 342.9 248.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21888,7 +21836,6 @@
 	)
 	(label "DIO3"
 		(at 298.45 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21899,7 +21846,6 @@
 	)
 	(label "NDAC"
 		(at 339.725 203.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21910,7 +21856,6 @@
 	)
 	(label "DEC4"
 		(at 68.58 284.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21921,7 +21866,6 @@
 	)
 	(label "UP1"
 		(at 317.5 294.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21932,7 +21876,6 @@
 	)
 	(label "/SRQIN"
 		(at 353.06 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21943,7 +21886,6 @@
 	)
 	(label "DIAG"
 		(at 162.56 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21954,7 +21896,6 @@
 	)
 	(label "ATN"
 		(at 215.9 90.805 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21965,7 +21906,6 @@
 	)
 	(label "DAV"
 		(at 294.64 220.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21976,7 +21916,6 @@
 	)
 	(label "DEC5"
 		(at 180.34 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -21987,7 +21926,6 @@
 	)
 	(label "C1MTR"
 		(at 197.485 281.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -21998,7 +21936,6 @@
 	)
 	(label "NRFD"
 		(at 427.355 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22009,7 +21946,6 @@
 	)
 	(label "UP4"
 		(at 317.5 287.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22020,7 +21956,6 @@
 	)
 	(label "DIO2"
 		(at 485.14 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22031,7 +21966,6 @@
 	)
 	(label "C1SW"
 		(at 162.56 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22042,7 +21976,6 @@
 	)
 	(label "DIO4"
 		(at 485.14 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22053,7 +21986,6 @@
 	)
 	(label "DIAG"
 		(at 83.82 213.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22064,7 +21996,6 @@
 	)
 	(label "ATN"
 		(at 332.74 228.6 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22075,7 +22006,6 @@
 	)
 	(label "NRFD"
 		(at 406.4 208.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22086,7 +22016,6 @@
 	)
 	(label "UP1"
 		(at 294.64 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22097,7 +22026,6 @@
 	)
 	(label "ATN"
 		(at 426.72 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22108,7 +22036,6 @@
 	)
 	(label "ATN"
 		(at 406.4 203.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22119,7 +22046,6 @@
 	)
 	(label "EOIOUT"
 		(at 264.16 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22130,7 +22056,6 @@
 	)
 	(label "KI2"
 		(at 170.18 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22141,7 +22066,6 @@
 	)
 	(label "KI6"
 		(at 55.88 264.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22152,7 +22076,6 @@
 	)
 	(label "KI7"
 		(at 142.24 238.76 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22163,7 +22086,6 @@
 	)
 	(label "DIO6"
 		(at 424.815 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22174,7 +22096,6 @@
 	)
 	(label "DIO7"
 		(at 515.62 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22185,7 +22106,6 @@
 	)
 	(label "KI3"
 		(at 170.18 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22196,7 +22116,6 @@
 	)
 	(label "ATNA_EN"
 		(at 398.78 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22207,7 +22126,6 @@
 	)
 	(label "DEC7"
 		(at 58.42 289.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22218,7 +22136,6 @@
 	)
 	(label "/SRQIN"
 		(at 426.72 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22229,7 +22146,6 @@
 	)
 	(label "KI0"
 		(at 106.68 238.76 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22240,7 +22156,6 @@
 	)
 	(label "DO4"
 		(at 297.18 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22251,7 +22166,6 @@
 	)
 	(label "C1SW"
 		(at 220.98 208.28 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22262,7 +22176,6 @@
 	)
 	(label "KI4"
 		(at 127 238.76 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22273,7 +22186,6 @@
 	)
 	(label "ATNA_EN"
 		(at 210.82 90.805 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22284,7 +22196,6 @@
 	)
 	(label "/C1MTR"
 		(at 160.02 170.18 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22295,7 +22206,6 @@
 	)
 	(label "NDAC"
 		(at 419.1 187.96 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22306,7 +22216,6 @@
 	)
 	(label "C2RD"
 		(at 294.64 226.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22317,7 +22226,6 @@
 	)
 	(label "/SRQIN"
 		(at 485.14 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22328,7 +22236,6 @@
 	)
 	(label "DEC1"
 		(at 190.5 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -22339,7 +22246,6 @@
 	)
 	(label "C1SW"
 		(at 175.895 292.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22350,7 +22256,6 @@
 	)
 	(label "EOI"
 		(at 426.72 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22361,7 +22266,6 @@
 	)
 	(label "DO3"
 		(at 297.18 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22372,7 +22276,6 @@
 	)
 	(label "UPCB2/BEEP"
 		(at 345.44 261.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22383,7 +22286,6 @@
 	)
 	(label "NRFD"
 		(at 416.56 187.96 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22394,7 +22296,6 @@
 	)
 	(label "DEC8"
 		(at 68.58 294.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22405,7 +22306,6 @@
 	)
 	(label "IECRES"
 		(at 426.72 187.96 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22416,7 +22316,6 @@
 	)
 	(label "DAV"
 		(at 414.02 187.96 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22427,7 +22326,6 @@
 	)
 	(label "DEC0"
 		(at 58.42 271.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22438,7 +22336,6 @@
 	)
 	(label "DEC3"
 		(at 68.58 281.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22449,7 +22346,6 @@
 	)
 	(label "C1RD"
 		(at 198.12 279.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22460,7 +22356,6 @@
 	)
 	(label "KI6"
 		(at 170.18 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22471,7 +22366,6 @@
 	)
 	(label "DAVOUT"
 		(at 340.995 190.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22482,7 +22376,6 @@
 	)
 	(label "/C1MTR"
 		(at 210.82 254 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22493,7 +22386,6 @@
 	)
 	(label "C1SW"
 		(at 198.755 274.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22504,7 +22396,6 @@
 	)
 	(label "KI5"
 		(at 132.08 238.76 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22515,7 +22406,6 @@
 	)
 	(label "KI2"
 		(at 116.84 238.76 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22526,7 +22416,6 @@
 	)
 	(label "C2SW/ATNIN"
 		(at 163.195 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22537,7 +22426,6 @@
 	)
 	(label "ATNOUT"
 		(at 294.64 208.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22548,7 +22436,6 @@
 	)
 	(label "DIO8"
 		(at 424.815 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22559,7 +22446,6 @@
 	)
 	(label "DAVOUT"
 		(at 297.18 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22570,7 +22456,6 @@
 	)
 	(label "DAV"
 		(at 485.14 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22581,7 +22466,6 @@
 	)
 	(label "C2SW"
 		(at 193.04 142.875 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -22592,7 +22476,6 @@
 	)
 	(label "KI6"
 		(at 137.16 238.76 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22603,7 +22486,6 @@
 	)
 	(label "DIO3"
 		(at 485.14 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22614,7 +22496,6 @@
 	)
 	(label "REN"
 		(at 515.62 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22625,7 +22506,6 @@
 	)
 	(label "EOIOUT"
 		(at 342.9 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22636,7 +22516,6 @@
 	)
 	(label "UP7"
 		(at 294.64 198.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22647,7 +22526,6 @@
 	)
 	(label "NDAC"
 		(at 406.4 213.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22658,7 +22536,6 @@
 	)
 	(label "ATN"
 		(at 485.14 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22669,7 +22546,6 @@
 	)
 	(label "N$11"
 		(at 381 228.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22680,7 +22556,6 @@
 	)
 	(label "EOI"
 		(at 485.14 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22691,7 +22566,6 @@
 	)
 	(label "DAV"
 		(at 339.725 187.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22702,7 +22576,6 @@
 	)
 	(label "NRFD"
 		(at 400.685 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22713,7 +22586,6 @@
 	)
 	(label "NRFDOUT"
 		(at 339.725 213.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22724,7 +22596,6 @@
 	)
 	(label "DIO6"
 		(at 298.45 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22735,7 +22606,6 @@
 	)
 	(label "UP6"
 		(at 317.5 281.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22746,7 +22616,6 @@
 	)
 	(label "NRFD"
 		(at 485.14 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -22757,7 +22626,6 @@
 	)
 	(label "SHIELD"
 		(at 487.68 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22768,7 +22636,6 @@
 	)
 	(label "/SRQIN"
 		(at 421.64 91.44 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22779,7 +22646,6 @@
 	)
 	(label "KI1"
 		(at 55.88 251.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22790,7 +22656,6 @@
 	)
 	(label "DO8"
 		(at 297.18 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22801,7 +22666,6 @@
 	)
 	(label "UP3"
 		(at 317.5 289.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22812,7 +22676,6 @@
 	)
 	(label "C2RD"
 		(at 187.96 264.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22823,7 +22686,6 @@
 	)
 	(label "DEC6"
 		(at 177.8 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -22834,7 +22696,6 @@
 	)
 	(label "ATN"
 		(at 297.18 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22845,7 +22706,6 @@
 	)
 	(label "ATN"
 		(at 401.32 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22856,7 +22716,6 @@
 	)
 	(label "IECRES"
 		(at 406.4 215.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22867,7 +22726,6 @@
 	)
 	(label "DEC7"
 		(at 175.26 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -22878,7 +22736,6 @@
 	)
 	(label "KI4"
 		(at 170.18 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22889,7 +22746,6 @@
 	)
 	(label "UP5"
 		(at 294.64 193.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22900,7 +22756,6 @@
 	)
 	(label "DIO8"
 		(at 298.45 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22911,7 +22766,6 @@
 	)
 	(label "UPCB2/BEEP"
 		(at 304.8 266.065 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22922,7 +22776,6 @@
 	)
 	(label "DIO5"
 		(at 515.62 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22933,7 +22786,6 @@
 	)
 	(label "DEC1"
 		(at 58.42 274.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22944,7 +22796,6 @@
 	)
 	(label "C2RD"
 		(at 127 279.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22955,7 +22806,6 @@
 	)
 	(label "DIO1"
 		(at 298.45 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22966,7 +22816,6 @@
 	)
 	(label "DO2"
 		(at 297.18 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22977,7 +22826,6 @@
 	)
 	(label "DEC7"
 		(at 68.58 292.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22988,7 +22836,6 @@
 	)
 	(label "C2RD"
 		(at 238.76 261.62 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -22999,7 +22846,6 @@
 	)
 	(label "DIAG"
 		(at 198.12 142.875 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -23010,7 +22856,6 @@
 	)
 	(label "DEC2"
 		(at 58.42 276.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23021,7 +22866,6 @@
 	)
 	(label "KI[0..7]"
 		(at 148.59 241.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23032,7 +22876,6 @@
 	)
 	(label "DIO2"
 		(at 426.72 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23043,7 +22886,6 @@
 	)
 	(label "KI0"
 		(at 170.18 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23054,7 +22896,6 @@
 	)
 	(label "DEC8"
 		(at 172.72 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -23065,7 +22906,6 @@
 	)
 	(label "NRFD"
 		(at 294.64 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23076,7 +22916,6 @@
 	)
 	(label "DEC3"
 		(at 58.42 279.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23087,7 +22926,6 @@
 	)
 	(label "KI5"
 		(at 71.12 264.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23098,7 +22936,6 @@
 	)
 	(label "NRFD"
 		(at 406.4 210.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23109,7 +22946,6 @@
 	)
 	(label "/SRQIN"
 		(at 236.22 261.62 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23120,7 +22956,6 @@
 	)
 	(label "/C2MTR"
 		(at 309.88 263.525 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23131,7 +22966,6 @@
 	)
 	(label "DIO4"
 		(at 298.45 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23142,7 +22976,6 @@
 	)
 	(label "KI5"
 		(at 170.18 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23153,7 +22986,6 @@
 	)
 	(label "C1RD"
 		(at 177.8 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23164,7 +22996,6 @@
 	)
 	(label "UPCA1"
 		(at 294.64 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23175,7 +23006,6 @@
 	)
 	(label "UPCB2/BEEP"
 		(at 289.56 274.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23186,7 +23016,6 @@
 	)
 	(label "EOI"
 		(at 259.715 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23197,7 +23026,6 @@
 	)
 	(label "DIO1"
 		(at 485.14 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -23208,7 +23036,6 @@
 	)
 	(label "DEC1"
 		(at 68.58 276.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23219,7 +23046,6 @@
 	)
 	(label "/C2MTR"
 		(at 294.64 213.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23230,7 +23056,6 @@
 	)
 	(label "KI2"
 		(at 55.88 254 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23241,7 +23066,6 @@
 	)
 	(label "DIAG"
 		(at 248.92 261.62 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23252,7 +23076,6 @@
 	)
 	(label "DO7"
 		(at 297.18 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23263,7 +23086,6 @@
 	)
 	(label "UP3"
 		(at 294.64 187.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23274,7 +23096,6 @@
 	)
 	(label "BD[0..7]"
 		(at 33.02 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23285,7 +23106,6 @@
 	)
 	(label "KI7"
 		(at 71.12 269.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23296,7 +23116,6 @@
 	)
 	(label "CWR"
 		(at 187.96 266.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23307,7 +23126,6 @@
 	)
 	(label "DEC2"
 		(at 68.58 279.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23318,7 +23136,6 @@
 	)
 	(label "KI7"
 		(at 170.18 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23329,7 +23146,6 @@
 	)
 	(label "EOI"
 		(at 426.72 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23340,7 +23156,6 @@
 	)
 	(label "DIO1"
 		(at 427.355 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23351,7 +23166,6 @@
 	)
 	(label "C2SW"
 		(at 194.31 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23362,7 +23176,6 @@
 	)
 	(label "ATNOUT"
 		(at 339.725 198.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23373,7 +23186,6 @@
 	)
 	(label "EOI"
 		(at 246.38 261.62 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23384,7 +23196,6 @@
 	)
 	(label "DEC9"
 		(at 68.58 297.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23395,7 +23206,6 @@
 	)
 	(label "UP0"
 		(at 317.5 297.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23406,7 +23216,6 @@
 	)
 	(label "NDACOUT"
 		(at 297.18 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23417,7 +23226,6 @@
 	)
 	(label "DIO8"
 		(at 515.62 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23428,7 +23236,6 @@
 	)
 	(label "DIAG"
 		(at 271.78 233.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23439,7 +23246,6 @@
 	)
 	(label "C2SW"
 		(at 223.52 208.28 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23450,7 +23256,6 @@
 	)
 	(label "EOI"
 		(at 353.06 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23461,7 +23266,6 @@
 	)
 	(label "KI1"
 		(at 111.76 238.76 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23472,7 +23276,6 @@
 	)
 	(label "IFC"
 		(at 436.88 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23483,7 +23286,6 @@
 	)
 	(label "NDAC"
 		(at 406.4 205.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23494,7 +23296,6 @@
 	)
 	(label "KI1"
 		(at 71.12 254 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23505,7 +23306,6 @@
 	)
 	(label "ATNA_EN"
 		(at 277.495 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23516,7 +23316,6 @@
 	)
 	(label "DIO4"
 		(at 426.72 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23527,7 +23326,6 @@
 	)
 	(label "DEC5"
 		(at 68.58 287.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23538,7 +23336,6 @@
 	)
 	(label "CWR"
 		(at 330.2 241.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23549,7 +23346,6 @@
 	)
 	(label "UP[0..7]"
 		(at 320.04 274.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23560,7 +23356,6 @@
 	)
 	(label "CWR"
 		(at 198.755 276.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23571,7 +23366,6 @@
 	)
 	(label "CWR"
 		(at 294.64 210.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23582,7 +23376,6 @@
 	)
 	(label "DEC4"
 		(at 58.42 281.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23593,7 +23386,6 @@
 	)
 	(label "DIO7"
 		(at 424.815 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23604,7 +23396,6 @@
 	)
 	(label "SHIELD"
 		(at 487.68 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23615,7 +23406,6 @@
 	)
 	(label "C1SW"
 		(at 190.5 141.605 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -23626,7 +23416,6 @@
 	)
 	(label "C1RD"
 		(at 241.3 261.62 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23637,7 +23426,6 @@
 	)
 	(label "CWR"
 		(at 175.895 287.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23648,7 +23436,6 @@
 	)
 	(label "C2SW"
 		(at 127 274.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23659,7 +23446,6 @@
 	)
 	(label "EOI"
 		(at 162.56 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23670,7 +23456,6 @@
 	)
 	(label "DEC3"
 		(at 185.42 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -23681,7 +23466,6 @@
 	)
 	(label "C2MTR"
 		(at 127 281.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23692,7 +23476,6 @@
 	)
 	(label "DAV"
 		(at 426.72 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23703,7 +23486,6 @@
 	)
 	(label "/SRQIN"
 		(at 83.82 203.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23714,7 +23496,6 @@
 	)
 	(label "C2RD"
 		(at 271.78 241.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23725,7 +23506,6 @@
 	)
 	(label "DIO[1..8]"
 		(at 375.92 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23736,7 +23516,6 @@
 	)
 	(label "NDAC"
 		(at 294.64 203.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23747,7 +23526,6 @@
 	)
 	(label "UP4"
 		(at 294.64 190.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23758,7 +23536,6 @@
 	)
 	(label "ATNA_EN"
 		(at 411.48 251.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23769,7 +23546,6 @@
 	)
 	(label "DAV"
 		(at 401.32 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23780,7 +23556,6 @@
 	)
 	(label "ATN"
 		(at 277.495 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23791,7 +23566,6 @@
 	)
 	(label "DO6"
 		(at 297.18 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23802,7 +23576,6 @@
 	)
 	(label "CWR"
 		(at 254 261.62 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23813,7 +23586,6 @@
 	)
 	(label "DEC0"
 		(at 193.04 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -23824,7 +23596,6 @@
 	)
 	(label "KI3"
 		(at 71.12 259.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23835,7 +23606,6 @@
 	)
 	(label "ATNA_EN"
 		(at 441.96 142.24 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23846,7 +23616,6 @@
 	)
 	(label "KI5"
 		(at 55.88 261.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23857,7 +23626,6 @@
 	)
 	(label "DEC6"
 		(at 68.58 289.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23868,7 +23636,6 @@
 	)
 	(label "KI0"
 		(at 55.88 248.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23879,7 +23646,6 @@
 	)
 	(label "/SRQIN"
 		(at 297.18 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23890,7 +23656,6 @@
 	)
 	(label "NDAC"
 		(at 426.72 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23901,7 +23666,6 @@
 	)
 	(label "ATN"
 		(at 421.64 187.96 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.3513 1.3513)
@@ -23912,7 +23676,6 @@
 	)
 	(label "DIO7"
 		(at 298.45 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23923,7 +23686,6 @@
 	)
 	(label "DEC6"
 		(at 58.42 287.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23934,7 +23696,6 @@
 	)
 	(label "C1RD"
 		(at 231.14 208.28 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23945,7 +23706,6 @@
 	)
 	(label "C2SW"
 		(at 187.96 261.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23956,7 +23716,6 @@
 	)
 	(label "NRFD"
 		(at 339.725 210.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23967,7 +23726,6 @@
 	)
 	(label "DEC5"
 		(at 58.42 284.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
@@ -23978,7 +23736,6 @@
 	)
 	(label "KI6"
 		(at 71.12 266.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)

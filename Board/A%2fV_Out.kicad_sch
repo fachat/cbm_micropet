@@ -3984,7 +3984,7 @@
 		)
 		(uuid "fe63b517-76a8-43e8-b58d-b19a7188783c")
 	)
-	(text "3.0B:\n- add voltage divider to dim beeper volume\n3.1A:\n- add 2nd voltage divider to eliminate channel cross-talk"
+	(text "3.0B:\n- add voltage divider to dim beeper volume\n3.1A:\n- add 2nd voltage divider to eliminate channel cross-talk\n- adjust output cap values to 22u to get more linear DAC output"
 		(exclude_from_sim no)
 		(at 52.07 211.582 0)
 		(effects
@@ -4006,7 +4006,7 @@
 		)
 		(uuid "78c14bd4-986e-4b25-a853-b9deaba727f1")
 	)
-	(text "MICROPET-V3.1A-20241230"
+	(text "MICROPET-V3.1A-20250123"
 		(exclude_from_sim no)
 		(at 208.28 218.44 0)
 		(effects
@@ -5126,7 +5126,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "22u"
 			(at 149.479 46.736 0)
 			(effects
 				(font
@@ -5264,7 +5264,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "22u"
 			(at 149.479 56.896 0)
 			(effects
 				(font
@@ -5486,7 +5486,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "22u"
 			(at 149.479 39.116 0)
 			(effects
 				(font
@@ -7025,7 +7025,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "22u"
 			(at 149.479 31.496 0)
 			(effects
 				(font
