@@ -5239,7 +5239,6 @@
 	)
 	(label "DETECT"
 		(at 76.2 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -5250,7 +5249,6 @@
 	)
 	(label "/USBINT"
 		(at 48.26 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.2446 1.2446)
