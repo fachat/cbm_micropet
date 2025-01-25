@@ -5215,7 +5215,7 @@
 		)
 		(uuid "c53ef306-2046-4ffe-8011-da9bb97abfbd")
 	)
-	(text "3.1A:\n- replace THT footprints for 33R with SMD\n- replace non-commercial MAX3421 footprint with kicad one\n- add boot option jumpsd on USB GPIN"
+	(text "3.1A:\n- replace THT footprints for 33R with SMD\n- replace non-commercial MAX3421 footprint with kicad one\n- add boot option jumper on USB GPIN"
 		(exclude_from_sim no)
 		(at 99.314 188.214 0)
 		(effects

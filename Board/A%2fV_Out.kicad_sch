@@ -5,6 +5,164 @@
 	(uuid "f5f91bcc-d566-4652-96aa-77fec7acbd73")
 	(paper "User" 334.823 246.532)
 	(lib_symbols
+		(symbol "Device:C_Polarized"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Polarized capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Polarized_0_1"
+				(rectangle
+					(start -2.286 0.508)
+					(end 2.286 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 2.286) (xy -0.762 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 2.794) (xy -1.27 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.286 -0.508)
+					(end -2.286 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "C_Polarized_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "micropet_v3-eagle-import:1503_09"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1021,148 +1179,6 @@
 						(effects
 							(font
 								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "micropet_v3-eagle-import:C-EU050-025X075"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 1.524 0.381 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at 1.524 -4.699 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "micropet_v3:C050-025X075"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "C-EU050-025X075_1_0"
-				(rectangle
-					(start -2.032 -2.032)
-					(end 2.032 -1.524)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -2.032 -1.016)
-					(end 2.032 -0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 -2.032)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -0.508)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
 							)
 						)
 					)
@@ -3984,7 +4000,7 @@
 		)
 		(uuid "fe63b517-76a8-43e8-b58d-b19a7188783c")
 	)
-	(text "3.0B:\n- add voltage divider to dim beeper volume\n3.1A:\n- add 2nd voltage divider to eliminate channel cross-talk"
+	(text "3.0B:\n- add voltage divider to dim beeper volume\n3.1A:\n- add 2nd voltage divider to eliminate channel cross-talk\n- increase audio output caps for better linearity"
 		(exclude_from_sim no)
 		(at 52.07 211.582 0)
 		(effects
@@ -4006,7 +4022,7 @@
 		)
 		(uuid "78c14bd4-986e-4b25-a853-b9deaba727f1")
 	)
-	(text "MICROPET-V3.1A-20241230"
+	(text "MICROPET-V3.1A-20250125"
 		(exclude_from_sim no)
 		(at 208.28 218.44 0)
 		(effects
@@ -4664,6 +4680,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 146.05 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d19b65e-df8d-4313-bc44-23c81556c33c")
+		(property "Reference" "C51"
+			(at 149.987 46.482 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22u"
+			(at 141.351 46.228 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+			(at 149.86 47.2948 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 146.05 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "79bb37e4-0bce-4014-9817-f6382ca7932c")
+		)
+		(pin "2"
+			(uuid "55d77bb0-5e59-4197-a59d-7c9539e05991")
+		)
+		(instances
+			(project "micropet_v3"
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
+					(reference "C51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "micropet_v3-eagle-import:1N4148DO35-7")
 		(at 142.24 154.94 0)
 		(unit 1)
@@ -5109,75 +5192,6 @@
 		)
 	)
 	(symbol
-		(lib_id "micropet_v3-eagle-import:C-EU050-025X075")
-		(at 144.78 48.26 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3bb8e431-625b-4bd5-978b-0bb3ef6362fe")
-		(property "Reference" "C51"
-			(at 144.399 46.736 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "1u"
-			(at 149.479 46.736 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "micropet_v3:C050-025X075"
-			(at 144.78 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1fef2817-f5a0-4d3a-b74a-29ce4a6e3996")
-		)
-		(pin "2"
-			(uuid "6cdd53a2-62e3-455f-a301-25265c65c02e")
-		)
-		(instances
-			(project "micropet_v3"
-				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
-					(reference "C51")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "micropet_v3-eagle-import:R-EU_0204/2V")
 		(at 167.64 124.46 0)
 		(unit 1)
@@ -5241,75 +5255,6 @@
 			(project "micropet_v3"
 				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
 					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "micropet_v3-eagle-import:C-EU050-025X075")
-		(at 144.78 58.42 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3fa11063-af5a-46c2-9822-ca95c50fb298")
-		(property "Reference" "C50"
-			(at 144.399 56.896 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "1u"
-			(at 149.479 56.896 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "micropet_v3:C050-025X075"
-			(at 144.78 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "70e946fc-c85f-4c1d-a78d-4b00dc0fb548")
-		)
-		(pin "2"
-			(uuid "2ed93089-e812-44ba-bbf0-997ca779781f")
-		)
-		(instances
-			(project "micropet_v3"
-				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
-					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -5463,75 +5408,6 @@
 			(project "micropet_v3"
 				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
 					(reference "SN1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "micropet_v3-eagle-import:C-EU050-025X075")
-		(at 144.78 40.64 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4e64db8b-8739-48b3-8a15-1e60bdb7f26e")
-		(property "Reference" "C52"
-			(at 144.399 39.116 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "1u"
-			(at 149.479 39.116 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "micropet_v3:C050-025X075"
-			(at 144.78 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6ca40f82-50fd-4328-a3af-857f3022d331")
-		)
-		(pin "2"
-			(uuid "e885d3e4-e106-4290-b5b5-fb8570e7b7fa")
-		)
-		(instances
-			(project "micropet_v3"
-				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
-					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -6316,6 +6192,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 146.05 33.02 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "719bbe88-aaf2-4418-8bb6-9aaead4eb5d9")
+		(property "Reference" "C49"
+			(at 149.987 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22u"
+			(at 141.605 30.734 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+			(at 149.86 32.0548 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 146.05 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "de137b28-8926-4ee4-808a-50daeabcb73c")
+		)
+		(pin "2"
+			(uuid "1d01d0ee-7686-4102-a29a-333cee4d7348")
+		)
+		(instances
+			(project ""
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
+					(reference "C49")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "micropet_v3-eagle-import:DOCFIELD")
 		(at 205.74 226.06 0)
 		(unit 1)
@@ -7003,75 +6946,6 @@
 				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
 					(reference "X2")
 					(unit 7)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "micropet_v3-eagle-import:C-EU050-025X075")
-		(at 144.78 33.02 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "87d29fb2-590a-4f13-9d9c-5fda6d393b09")
-		(property "Reference" "C49"
-			(at 144.399 31.496 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "1u"
-			(at 149.479 31.496 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "micropet_v3:C050-025X075"
-			(at 144.78 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "43ab50b0-44ec-42c2-8166-d8f1e34957ce")
-		)
-		(pin "2"
-			(uuid "3899dbd1-91b9-4631-9e59-10cdfb9a8967")
-		)
-		(instances
-			(project "micropet_v3"
-				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
-					(reference "C49")
-					(unit 1)
 				)
 			)
 		)
@@ -8163,6 +8037,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 146.05 58.42 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d0e42fb7-7104-41dc-b0a4-c5e16ae07d32")
+		(property "Reference" "C52"
+			(at 149.987 55.626 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22u"
+			(at 141.097 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+			(at 149.86 57.4548 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 146.05 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "71a84b26-488c-40cb-8f7b-e0fda6a83cb8")
+		)
+		(pin "2"
+			(uuid "d2ebbfad-792e-44f3-b98e-d69fe4622d45")
+		)
+		(instances
+			(project "micropet_v3"
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
+					(reference "C52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "micropet_v3-eagle-import:1N4148DO35-7")
 		(at 142.24 139.7 0)
 		(unit 1)
@@ -8651,6 +8592,73 @@
 			(project "micropet_v3"
 				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
 					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 146.05 40.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f8bd53fb-6c01-40df-bab4-0078f7ebe849")
+		(property "Reference" "C50"
+			(at 149.733 38.862 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "22u"
+			(at 141.605 38.862 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+			(at 149.86 39.6748 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 146.05 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f49aac4c-37d3-49e1-82e2-4c968bf126a4")
+		)
+		(pin "2"
+			(uuid "6860377b-f7dc-49a8-9fe3-b7b51231f2c7")
+		)
+		(instances
+			(project "micropet_v3"
+				(path "/d690d13f-2f18-4476-a6d5-736cfe9a0ec3/cc5c915a-c2a7-4cf5-92a1-dac49395dedd"
+					(reference "C50")
 					(unit 1)
 				)
 			)
